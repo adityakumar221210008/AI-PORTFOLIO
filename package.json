@@ -1,0 +1,23 @@
+{
+  "name": "ai-portfolio",
+  "version": "1.0.0",
+  "description": "AI Engineer Portfolio with Vercel Analytics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakumar221210008/AI-PORTFOLIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakumar221210008/AI-PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/adityakumar221210008/AI-PORTFOLIO#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
